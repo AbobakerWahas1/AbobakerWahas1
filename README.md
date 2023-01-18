@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbobakerWahas
-- 👀 I’m interested in scurty
+- 👀 I’m interested in security
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me in https://t.me/AbobakerWahas
